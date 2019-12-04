@@ -1,0 +1,5 @@
+/node_modules/*
+/dist_server/*
+/dist_client/*
+/preferences/*
+/output/*

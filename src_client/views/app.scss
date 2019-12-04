@@ -1,0 +1,21 @@
+.appbar {
+    align-items: stretch;
+    align-content: stretch;
+    display: flex;
+}
+
+.toolbar {
+    display: flex;
+    flex:1;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    padding: 0px !important;
+}
+
+.title {
+    font-weight: 300 !important;
+    font-size: 29px !important;
+}

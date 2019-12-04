@@ -1,0 +1,71 @@
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    flex-grow: 1.0;
+    align-content: stretch;
+    margin: 0px 24px;
+    height: 148px;
+    padding-right: 124px;
+    overflow: hidden;
+}
+
+.label {
+    position: absolute;
+    right: 0px;
+    width: 124px;
+    text-align: center;
+    z-index: -1;
+    //font-family: Roboto;
+    //font-weight: 300;
+    //font-size: 19px;
+}
+
+.text1 {
+    flex: 1;
+    margin: 0px 24px 0px 48px !important;
+}
+
+.text2 {
+    flex: 1;
+    margin: 0px 48px 0px 24px !important;
+}
+
+.text {
+    flex: 1;
+    margin: 0px 48px 0px 48px !important;
+}
+
+.btn {
+    margin: 0px 24px !important;
+}
+
+.log {
+}
+
+.log textarea {
+  font-family: 'Roboto Mono', monospace !important;
+  font-size: 12px;
+}
+
+.logContainer {
+    margin: 0px 76px !important;
+    padding-bottom: 24px;
+}
+
+.progressContainer {
+    position: absolute;
+    right: 0px;
+}
+
+.chip {
+}
+
+.chipBlue {
+    color: #2196f3 !important;
+    border: 1px solid #2196f3 !important;
+    font-weight:500 !important;
+}
