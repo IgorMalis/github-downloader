@@ -28,9 +28,9 @@ const initialState = {
     language: 'kotlin',
 
     // Ratelimit info
-    rateVisible: true,
-    rateRemaining: 2745,
-    rateTotal: 5000,
+    rateVisible: false,
+    rateRemaining: 0,
+    rateTotal: 0,
 };
 
 export default handleActions({
