@@ -23,7 +23,7 @@
     "express": "^4.17.1",
     "immutable": "^4.0.0-rc.12",
     "moment": "^2.24.0",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.1.3",
